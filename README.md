@@ -1,79 +1,50 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## 🔗 Hi, I'm Rohit! 👋
 
-# Getting Started
+- [@Rohit Jorvekar](https://github.com/Rohit-Jorvekar)
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+- 🚀React Native Application Developer.
 
-## Step 1: Start the Metro Server
+## Technology Used🧑‍💻
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+- React Native
+- Mango DB
+- Node JS.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## Reacr Native Components⚒️
+- Redux
+- Custom components develope
+- Flatlist
 
-```bash
-# using npm
-npm start
+## Screenshots😎
+<img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/9f851de7-c689-4d30-bf56-9766fdae62fa" width="200" />
+<img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/da5648fb-5223-4592-b3a5-c159e7d99bb5" width="200" /> <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/b3a4b5f6-16bc-450f-b81f-65d2743acf02" width="200" /> 
 
-# OR using Yarn
-yarn start
-```
 
-## Step 2: Start your Application
+<img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/85fad8fe-0ec1-440c-8313-45dd82a45bad" width="200" /> <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/b0bd7210-7d18-4219-a9e3-ff0f2b9e0547" width="200" /> 
+<img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/27548416-d910-48bb-a59c-57ace7c06e68" width="200" /> 
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
-### For Android
+## Features📓
+- User Authentication – Utilizes Firebase phone authentication for secure user login.
+- Product Management – Allows adding, editing, and deleting edible oil products with details like name, price, quantity, etc.
+- Order Processing – Enables users to place orders for edible oils and track their order status.
+- Payment Integration – Integrates with payment gateways to facilitate secure online payments.
 
-```bash
-# using npm
-npm run android
+## Functionality📝
+- Manage product inventory and sales – Users can add, update, and track their edible oil products and sales within the app.
+- Order tracking – Allows users to monitor the status of their orders, including processing, shipping, and delivery.
+- Customer management – Provides tools for managing customer information, preferences, and purchase history.
+- Sales analytics – Includes built-in analytics for monitoring sales performance, trends, and profitability.
+- Integration with payment gateways – Enables secure online payments for orders through integrated payment gateways.
 
-# OR using Yarn
-yarn android
-```
+## Feedback
+We value your feedback! Please send us your suggestions and comments at rohitj.kor@gmail.com.
 
-### For iOS
+## Optimizations
+- Continuous updates and improvements based on user feedback and market trends.
+- Enhanced security measures to protect user data and transactions.
+- Integration with additional APIs for enhanced functionality, such as real-time shipping tracking and customer support chat.
+- Performance optimizations for smooth and responsive user experience across devices.
+## Contributing
+- Contributions are welcome! Visit our GitHub repository to learn how you can contribute to the project.
 
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
